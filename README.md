@@ -3,3 +3,6 @@
 
 ### Day 1
   Learned print and input function in Python
+
+### Day 2
+  Learned Variables / Datatypes / Calculations
